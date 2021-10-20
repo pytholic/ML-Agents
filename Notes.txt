@@ -1,0 +1,7 @@
+Version:
+pip install mlagents==0.25.0
+unity mlagents package 1.0.7
+Visual Studio C# 2019
+
+
+https://github.com/Unity-Technologies/ml-agents

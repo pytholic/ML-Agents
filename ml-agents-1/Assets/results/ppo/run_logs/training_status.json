@@ -1,0 +1,23 @@
+{
+    "MoveToTarget": {
+        "checkpoints": [
+            {
+                "steps": 133763,
+                "file_path": "results\\ppo\\MoveToTarget\\MoveToTarget-133763.onnx",
+                "reward": 0.9499999999322675,
+                "creation_time": 1627525548.4753034
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 133763,
+            "file_path": "results\\ppo\\MoveToTarget.onnx",
+            "reward": 0.9499999999322675,
+            "creation_time": 1627525548.4753034
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.8.1"
+    }
+}
